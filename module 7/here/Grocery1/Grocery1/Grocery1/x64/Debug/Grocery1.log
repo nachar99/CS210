@@ -1,0 +1,5 @@
+﻿  GroceryTracker.cpp
+c1xx : fatal  error C1083: Cannot open source file: '..\..\Grocery\Grocery\GroceryTracker.cpp': No such file or directory
+  main.cpp
+c1xx : fatal  error C1083: Cannot open source file: '..\..\Grocery\Grocery\main.cpp': No such file or directory
+  Generating Code...
